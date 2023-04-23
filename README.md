@@ -3,10 +3,10 @@
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
 <body>
 <h3><b>Hello, I'm Saint Punk!</b></h3>
-<em>I'm not an ancient person, but I spend most of my time in front of the computer.<br>
-I make backgrounds on Wallpaper Engine, you can check out my <a href="https://steamcommunity.com/id/rxbunyo/myworkshopfiles/"><b>Steam workshop</b></a> if you want.<br>
-I can also make .theme files on Discord BD, I'm not very good at it, I just do what I can :D.<br>
-You can easily reach me on my<a href="https://discord.com/users/406416295349714944"> Discord account.</a></p></i>
+<em>As a metal musician, I like to listen to music and write code, I am also a drummer.<br>
+I cannot express my love for art and music with words.<br>
+I guess that's what I was created for. That's all from me, have a nice day.<br>
+And you can easily reach me on my<a href="https://discord.com/users/980928434748424263"> Discord account.</a></p></i>
 </div>
 </body>
 
