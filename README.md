@@ -37,6 +37,6 @@ And you can easily reach me on my<a href="https://discord.com/users/980928434748
 <div align="center">
 <details>
 <summary></summary>
-<b>Music for metal metal for music</b>
+<b>Music for metal, metal for music..</b>
 </details>
 </div>
