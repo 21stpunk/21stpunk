@@ -1,16 +1,42 @@
-### Hi there 👋
+<!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
+     ║ 21stpunk README.md                                                                                ║
+     ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
+<body>
+<h3><b>Hello, I'm Saint Punk!</b></h3>
+<em>I'm not an ancient person, but I spend most of my time in front of the computer.<br>
+I make backgrounds on Wallpaper Engine, you can check out my <a href="https://steamcommunity.com/id/rxbunyo/myworkshopfiles/"><b>Steam workshop</b></a> if you want.<br>
+I can also make .theme files on Discord BD, I'm not very good at it, I just do what I can :D.<br>
+You can easily reach me on my<a href="https://discord.com/users/406416295349714944"> Discord account.</a></p></i>
+</div>
+</body>
 
-<!--
-**21stpunk/21stpunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+<!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
+     ║ Transfers your Discord profile. | Discord profilinizi aktarır.                                    ║
+     ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
+<div align="center" >
+<a href="https://discord.com/users/980928434748424263">
+<img width="70%" src="https://lanyard.cnrad.dev/api/980928434748424263?bg=00000077&borderRadius=7px">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
+     ║ Social media buttons. | Sosyal medya butonlarını.                                                 ║
+     ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
+<p align="center">
+<a href="https://discord.gg/SxWKF4HsSY" target"blank_"><img width="17%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=ffffff"></a>
+<a href="https://open.spotify.com/user/t02h7pag21d3oq7mr3523gmzg?si=ff5d955891bd4805" target"blank_"><img width="16.5%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=ffffff"></a>
+<a href="https://steamcommunity.com/profiles/76561198835501536/" target"blank_"><img width="14.16%" src="https://img.shields.io/badge/steam%20-000000.svg?&style=for-the-badge&logo=steam&logoColor=ffffff"></a> 
+<a href="https://www.youtube.com/@21stpunk_" target"blank_"><img width="17.1%" src="https://img.shields.io/badge/YouTube%20-000000.svg?&style=for-the-badge&logo=youtube&logoColor=ffffff"></a>
+     
+<!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
+     ║ Spotify                                                                                           ║
+     ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
+<p align="center">
+<a href="https://open.spotify.com/user/t02h7pag21d3oq7mr3523gmzg?si=c4a8ea0ead9e4e82">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=t02h7pag21d3oq7mr3523gmzg&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=true" alt="Spotify" />
+<div align="center">
+<details>
+<summary></summary>
+<b>Music for metal metal for music</b>
+</details>
+</div>
