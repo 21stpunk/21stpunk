@@ -52,5 +52,5 @@ And you can easily reach me on my<a href="https://discord.com/users/980928434748
 usercontent.com/126782935/231356352-41966633-9b04-4e2c-b9d1-858d8b89afcd.png">
 </a>
 <div align="center">
-<strong style=><b>THE MAN FROM COFFEE HELL</b></strong>
+<strong style=><b>WELCOME TO METAL HELL</b></strong>
 </div>
