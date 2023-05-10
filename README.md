@@ -45,6 +45,4 @@ And you can easily reach me on my<a href="https://discord.com/users/980928434748
      ║ CoffeeMan.apng                                                                                    ║
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
 <div align="center" >
-<a href="https://discord.com/users/406416295349714944">
-<img width="40%" src="![ezgif-2-99df102651](https://github.com/21stpunk/21stpunk/assets/76168426/032a5d44-642e-4e13-a788-110c47c3966b)
-">
+<img width="40%" src="![ezgif-2-99df102651](https://github.com/21stpunk/21stpunk/assets/76168426/972e5ce2-e599-4fe3-a8ff-71a03eaac7d5)">
