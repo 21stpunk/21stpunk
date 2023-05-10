@@ -40,3 +40,11 @@ And you can easily reach me on my<a href="https://discord.com/users/980928434748
 <b>Music for metal, metal for music..</b>
 </details>
 </div>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
+     ║ CoffeeMan.apng                                                                                    ║
+     ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
+<div align="center" >
+<a href="https://discord.com/users/406416295349714944">
+<img width="40%" src="https://user-images.gi![ezgif-2-99df102651](https://github.com/21stpunk/21stpunk/assets/76168426/4e1a6f6b-fd14-4014-ab9b-e6cec6c7da1c)
+thubusercontent.com/126782935/231356352-41966633-9b04-4e2c-b9d1-858d8b89afcd.png">
