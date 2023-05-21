@@ -46,10 +46,17 @@ And you can easily reach me on my<a href="https://discord.com/users/980928434748
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
 <div align="center" >
 <a href="https://discord.com/users/980928434748424263">
-<img width="40%" src="https://user-images.github![ezgif-2-99df102651]
-(https://github.com/21stpunk/21stpunk/assets/76168426/e2587407-a40b-4cdd-bd47-7c793c3f24fc)
-usercontent.com/126782935/231356352-41966633-9b04-4e2c-b9d1-858d8b89afcd.png">
+<img width="40%" src="https://github.com/21stpunk/21stpunk/assets/126782935/ca337c2d-6171-4643-93be-e14ad611eca1">
 </a>
 <div align="center">
 <strong style=><b>WELCOME TO METAL HELL</b></strong>
 </div>
+
+<div align="center">
+<details>
+<summary></summary>
+<img src="https://komarev.com/ghpvc/?username=your-github-21stpunk&color=000000&style=for-the-badge&label=Views" alt="Sansürlendi">
+</details>
+</div>
+
+![](https://hit.yhype.me/github/profile?user_id=76168426)
