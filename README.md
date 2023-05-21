@@ -46,7 +46,7 @@ And you can easily reach me on my<a href="https://discord.com/users/980928434748
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
 <div align="center" >
 <a href="https://discord.com/users/980928434748424263">
-<img width="40%" src="https://github.com/21stpunk/21stpunk/assets/126782935/ca337c2d-6171-4643-93be-e14ad611eca1">
+<img width="40%" src="https://github.com/21stpunk/21stpunk/assets/126782935/48ea4b45-0bbe-4add-ba41-b500d76c9ca7">
 </a>
 <div align="center">
 <strong style=><b>WELCOME TO METAL HELL</b></strong>
