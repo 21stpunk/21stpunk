@@ -7,8 +7,7 @@
 I cannot express my love for art and music with words.<br>
 I guess that's what I was created for. That's all from me, have a nice day.<br>
 And you can easily reach me on my<a href="https://discord.com/users/980928434748424263"> Discord account.</a></p></i>
-</div>
-</body>
+</div></body>
 
 ##
 <!-- ╔══════════════════════════════════════════════════════════════════════════════════════════════╗
@@ -16,8 +15,7 @@ And you can easily reach me on my<a href="https://discord.com/users/980928434748
      ╚══════════════════════════════════════════════════════════════════════════════════════════════╝ -->
 <div align="center" >
 <a href="https://discord.com/users/980928434748424263">
-<img width="70%" src="https://lanyard.cnrad.dev/api/980928434748424263?bg=00000077&borderRadius=7px">
-</div>
+<img width="70%" src="https://lanyard.cnrad.dev/api/980928434748424263?bg=00000077&borderRadius=7px"></div>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════════════════════════════╗
      ║ Social media buttons. | Sosyal medya butonlarını.                                            ║
@@ -38,8 +36,7 @@ And you can easily reach me on my<a href="https://discord.com/users/980928434748
 <details>
 <summary></summary>
 <b>Music for metal, metal for music..</b>
-</details>
-</div>
+</details></div>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════════════════════════════╗
      ║ 21stpunk.apng                                                                                ║
@@ -49,8 +46,7 @@ And you can easily reach me on my<a href="https://discord.com/users/980928434748
 <img width="40%" src="https://github.com/21stpunk/21stpunk/assets/126782935/48ea4b45-0bbe-4add-ba41-b500d76c9ca7">
 </a>
 <div align="center">
-<strong style=><b>WELCOME TO METAL HELL</b></strong>
-</div>
+<strong style=><b>WELCOME TO METAL HELL</b></strong></div>
      
 <!-- ╔══════════════════════════════════════════════════════════════════════════════════════════════╗
      ║ Views                                                                                        ║
@@ -59,7 +55,6 @@ And you can easily reach me on my<a href="https://discord.com/users/980928434748
 <details>
 <summary></summary>
 <img src="https://komarev.com/ghpvc/?username=your-github-21stpunk&color=000000&style=for-the-badge&label=Views" alt="Sansürlendi">
-</details>
-</div>
+</details></div>
 
 ![](https://hit.yhype.me/github/profile?user_id=76168426)
