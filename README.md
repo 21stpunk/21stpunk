@@ -3,7 +3,7 @@
      ╚══════════════════════════════════════════════════════════════════════════════════════════════╝ -->
 <body>
 <h3><b>Wassup?, I'm Saint..</b></h3>
-<a href="https://discord.com/users/980928434748424263"> My Discord.</a></p></i>
+<a href="https://discord.com/users/980928434748424263"> My Discord</a></p></i>
 </div></body>
 
 ##
