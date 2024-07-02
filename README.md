@@ -2,10 +2,7 @@
      ║ 21stpunk README.md                                                                           ║
      ╚══════════════════════════════════════════════════════════════════════════════════════════════╝ -->
 <body>
-<h3><b>Hello, I'm Saint Punk!</b></h3>
-<em>As a metal musician, I like to listen to music and write code, I am also a drummer.<br>
-I cannot express my love for art and music with words.<br>
-I guess that's what I was created for. That's all from me, have a nice day.<br>
+<h3><b>Wassup?, I'm Saint..</b></h3>
 And you can easily reach me on my<a href="https://discord.com/users/980928434748424263"> Discord account.</a></p></i>
 </div></body>
 
