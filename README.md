@@ -28,10 +28,10 @@ And you can easily reach me on my<a href="https://discord.com/users/980928434748
      
 <!-- ╔══════════════════════════════════════════════════════════════════════════════════════════════╗
      ║ Spotify                                                                                      ║
-     ╚══════════════════════════════════════════════════════════════════════════════════════════════╝ -->
+     ╚══════════════════════════════════════════════════════════════════════════════════════════════╝
 <p align="center">
 <a href="https://open.spotify.com/user/t02h7pag21d3oq7mr3523gmzg?si=c4a8ea0ead9e4e82">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=t02h7pag21d3oq7mr3523gmzg&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=true" alt="Spotify" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=t02h7pag21d3oq7mr3523gmzg&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=true" alt="Spotify" /> -->
 <div align="center">
 <details>
 <summary></summary>
